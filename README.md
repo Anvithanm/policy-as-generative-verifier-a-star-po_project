@@ -9,7 +9,8 @@ This project replaces PPO with A*-PO in the PAG framework, achieving:
 - **2× training speed** (single generation per prompt)
 - **Stable self-correction** (+1.00% improvement on MATH-500)
 
-**NOTE :** THIS EXPERIMENT WAS PERFOMRED USING 100 SAMPLES DUE TO MEMORY AND GPU RESOURCE LIMITATION CONSTRAINTS.
+NOTE :THIS EXPERIMENT WAS PERFOMRED USING 100 SAMPLES DUE TO MEMORY AND GPU RESOURCE LIMITATION CONSTRAINTS.
+
 ---
 ## Key Features
 
