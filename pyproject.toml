@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pag_a_star_po"
+version = "0.1.0"
+description = "Policy-as-Generative-Verifier (PAG) with A*-PO — code extracted from notebook"
+authors = [ { name = "Anvithanm" } ]
+
+[tool.setuptools.packages.find]
+where = ["src"]

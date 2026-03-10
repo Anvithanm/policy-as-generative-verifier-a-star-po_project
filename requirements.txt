@@ -1,0 +1,7 @@
+datasets
+transformers
+torch
+sympy
+tqdm
+numpy
+huggingface_hub
